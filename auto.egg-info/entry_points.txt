@@ -1,0 +1,2 @@
+[console_scripts]
+auto = ___auto.auto_run:main
